@@ -21,8 +21,7 @@ export default function Header() {
             alt="Deep Learning Human Logo"
             width={52}
             height={52}
-            className="object-contain"
-            className="rounded-xl"
+            className="object-contain rounded-xl"
             />
           <div>
             <div className="text-lg font-extrabold tracking-tight">

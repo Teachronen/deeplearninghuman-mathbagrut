@@ -49,7 +49,7 @@ export default function HomePage() {
 
           <h1 className="max-w-3xl text-4xl font-extrabold leading-tight text-[#2d241d] sm:text-5xl lg:text-6xl">
             ללמוד מתמטיקה
-            <span className="block text-[#d96c1f]">כמו שלומדים חכם</span>
+            <span className="block text-[#d96c1f]">חכם</span>
             ולא רק קשה
           </h1>
 
